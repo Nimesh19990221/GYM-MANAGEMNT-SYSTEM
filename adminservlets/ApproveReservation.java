@@ -40,7 +40,7 @@ public class ApproveReservation extends HttpServlet {
                 ps.setString(1, req_id_val);                
                 ps.executeUpdate();
                 out.println("<script type=\"text/javascript\">");
-                out.println("alert('Approved !!');");
+                out.println("alert('Approved !');");
                 out.println("location='admin/home-pending.jsp';");
                 out.println("</script>");
 
