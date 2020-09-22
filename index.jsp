@@ -31,7 +31,7 @@
         <div class="modal fade" id="loginModal" role="dialog">
             <div class="modal-dialog modal-sm" style="margin-top: 25vh;">
 
-                <!-- Modal content-->
+                
                 <div class="modal-content">
                     <form method="post" action="LoginServlet">
                         <div class="modal-header">
