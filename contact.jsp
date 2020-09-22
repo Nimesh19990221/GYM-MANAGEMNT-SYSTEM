@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-ddf
+
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">gfhjfjf
     <meta name="format-detection" content="telephone=no">
     <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
     <title>GYM</title>
