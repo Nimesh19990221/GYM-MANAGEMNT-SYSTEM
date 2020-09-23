@@ -1,5 +1,5 @@
 jQuery(window).load(function() {
-    "use strict";vnvcn
+    "use strict";
     preloader();
 })
 
