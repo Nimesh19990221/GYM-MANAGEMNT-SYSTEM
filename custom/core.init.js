@@ -167,7 +167,7 @@ function themerex_ready_actions() {
 			var loc = window.location.href;
 			var pos2 = loc.indexOf('#');
 			if (pos2 > 0) loc = loc.substring(0, pos2);
-			var now = pos==0;
+			var now = pos==1;
 			if (!now) now = loc == href.substring(0, pos);
 			if (now) {
 				themerex_document_animate_to(href.substr(pos));
