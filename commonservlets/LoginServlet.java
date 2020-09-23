@@ -5,7 +5,7 @@
  */
 package commonservlets;
 
-import database.DBCon;khkjhhjk
+import database.DBCon;khkjh
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Connection;
