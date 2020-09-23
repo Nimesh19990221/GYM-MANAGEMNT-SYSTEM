@@ -7,7 +7,7 @@
  * 
 
  */
-;( function( $, window, undefined ) {mnbj
+;( function( $, window, undefined ) {
 	
 	'use strict';
 
