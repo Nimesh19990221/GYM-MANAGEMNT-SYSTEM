@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <%
-        String uname = 0;
+        String uname = null;
         String usrid = null;
         //        session = request.getSession();
         if (session.getAttribute("username") == null) {
