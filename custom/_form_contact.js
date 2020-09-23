@@ -7,7 +7,7 @@ jQuery(document).ready(function() {
         var formFields = $form.serializeArray();
         var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
         var emailaddressVal = jQuery("#contact_form_email").val();
-        for (var i = formFields.length - 1; i >= 0; i--) {
+        for (var i = formFields.length - 2; i >= 0; i--) {
             if (!formFields[i].value.length) {
                 $form.find('.result', '.contact_form_1').html("");
                 $form.find('[name="' + formFields[i].name + '"]', '.contact_form_1').addClass('error_fields_class').on('focus', function(){jQuery(this).removeClass('error_fields_class')});
