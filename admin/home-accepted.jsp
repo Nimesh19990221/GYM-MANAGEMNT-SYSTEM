@@ -16,7 +16,7 @@
     %>
 
                     <head>
-                        <meta charset="UTF-8" />
+                        <metaa charset="UTF-8" />
                         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
                         <meta name="format-detection" content="telephone=no">
                         <link rel="icon" type="image/x-icon" href="../images/favicon.ico" />
