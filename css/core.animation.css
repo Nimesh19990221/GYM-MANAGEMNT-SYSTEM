@@ -3158,7 +3158,7 @@ Copyright (c) 2014 Daniel Eden
 
   100% {
     visibility: hidden;
-    -webkit-transform: translateY(-10%);
+    -webkit-transform: translateY(-100%);
             transform: translateY(-100%);
   }
 }
