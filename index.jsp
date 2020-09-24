@@ -80,7 +80,7 @@
                             <nav role="navigation" class="menu_main_nav_area menu_color_bg_1">
                                 <ul id="menu_main" class="menu_main_nav">
                                     <li class="menu-item">
-                                        <a href="index.jsp">
+                                        <a href="index.jsp"
                                             <span>Home</span>
                                         </a>
                                     </li>
