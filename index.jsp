@@ -28,7 +28,7 @@
     </head>
 
     <body class="page body_style_fullscreen article_style_boxed top_panel_style_light top_panel_opacity_transparent top_panel_over menu_right sidebar_hide">
-        <div class="modal fade" id="loginModal" role="dialog"
+        <div class="modal fade" id="loginModal" role="dialog">
             <div class="modal-dialog modal-sm" style="margin-top: 25vh;">
 
                 
